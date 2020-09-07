@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+}
+.slider-part img{
+    width: 1000px;
+    height: 500px;
+    display: block;
+    margin-top:50px;
+}
+.my-image img{
+    height: 750px;
+    padding: 145px;
+    margin-top: -250px;
+}
+.my-image{
+    height: 550px;
+    padding: 200px;
+}
